@@ -8,7 +8,7 @@ Online Store is a website for shoes, apparel, and accessories. Users can search 
 
 ## How to install & run the app
 
-- Step 1: cloning this repo with `git clone https://github.com/PhucDong/coder-store-app`
+- Step 1: cloning this repo with `git clone https://github.com/PhucDong/simple-online-store`
 - Step 2: installing the following dependencies
   - `npm install`
   - `npm i react-router-dom`
